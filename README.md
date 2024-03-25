@@ -1,0 +1,2 @@
+# gbansk
+Banlist Global
